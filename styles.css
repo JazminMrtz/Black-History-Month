@@ -1,0 +1,34 @@
+body {
+    background-image: url("https://theshaderoom.com/wp-content/uploads/2023/03/GettyImages-501589414-scaled.jpg");
+    background-position: end;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
+h1{
+    color: white;
+    border-color: 10px;
+}
+.paragraph{
+    color: white;
+    font-size: 25px
+}
+.bio{
+    color: #4169E1;
+    font-size: 60px
+}
+
+p{
+    text-align: center;
+}
+
+.title{
+    text-align: center;
+    justify-content: end;
+    color: white;
+    font-size: 25px;
+}
+h1{
+    font-size: 60px;
+}
